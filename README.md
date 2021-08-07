@@ -1,4 +1,4 @@
-# TYyHM
+# TyHM
 Trabajos de TyHM
 Modulo 1 : Creación de textos e hipertextos
 Modulo 2: Programación en R- Cran
