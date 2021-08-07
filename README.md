@@ -4,7 +4,7 @@ Trabajos de TyHM
 Modulo 1 : Creación de textos e hipertextos
 <p>
 <a href=
-Currículum Vitae: "https://github.com/Gabinete13/TyHM/blob/8ebfe2ec90b26edf06bc39b9a0471616a7ca46d4/CV_Gabriel_Ledda.pdf"> Gabriel Ledda </a>
+Currículum Vitae: "https://github.com/Gabinete13/TyHM/blob/0fae53f4421a85c3c7bc77a15b85d9b2d9582043/CV_Gabriel_Ledda.pdf"> Gabriel Ledda </a>
 
                                                                                                                          
 
