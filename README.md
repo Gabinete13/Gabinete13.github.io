@@ -9,7 +9,7 @@ Módulo 1 : Creación de textos e hipertextos
 <p>
 Módulo 2: Programación en R-Cran
 <p>
-<a href="https://github.com/Gabinete13/TyHM/blob/e7f6273245533cd1438a712282067c6e8b642f1d/Programacion_en_R.pdf"> Progración en R </a>
+<a href="https://github.com/Gabinete13/TyHM/blob/3bc74929740ba4b826424a9cea4d84eb7d020ca2/Programacion_en_R.pdf"> Progración en R </a>
 <p>
 Módulo 4: Adhesivos
 <p>
